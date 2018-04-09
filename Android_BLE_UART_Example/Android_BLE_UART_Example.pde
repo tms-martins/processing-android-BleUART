@@ -1,4 +1,7 @@
 /*
+ * Copyright (c) 2018 Tiago Martins.
+ * Available under the MIT license. See https://opensource.org/licenses/MIT
+ *
  * A simple UART over Bluetooth Low Energy, based on the Nordic UART Service.
  * 
  * Most UART functionality is encapsulated by a BleUART object. 
