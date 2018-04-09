@@ -1,7 +1,8 @@
 
 # processing-android-BleUART
 
-An example of using the Nordic UART service on Bluetooth LE from Processing's Android Mode.
+An example of using the Nordic UART service on Bluetooth LE (BLE) from Processing's Android Mode.
+The Android app acts as a BLE client to a BLE server (peripheral) with the Nordic UART service - for instance, a Bluetooth LE Module or SoC like the [ESP-32](https://www.espressif.com/en/products/hardware/esp32/overview).
 
 Made with Processing 3.3.6, Android Mode 4.0.1
 Tested on a Moto G2 running Android 7.1.2 (custom ROM), with a Sparkfun ESP-32 Thing running a [Nordic UART Arduino example](https://github.com/nkolban/ESP32_BLE_Arduino/tree/af865a916795289c8e7e09b091ff2140c33fc3fe/examples/BLE_uart).
